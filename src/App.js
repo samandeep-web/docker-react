@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Now its working
+         Please download the version 2 of application.
         </a>
       </header>
     </div>
