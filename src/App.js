@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Please download the version 2 of application.
+         Now i am on feature branch.
         </a>
       </header>
     </div>
